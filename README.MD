@@ -25,7 +25,7 @@ Os e-mails receptores podem ser configurados a partir da tela de configurações
 ## Documentações
 * [WP Plugin Handbook](https://developer.wordpress.org/plugins/)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
-
+* [UiKit Front-end framework](https://getuikit.com)
 -----------
 
 * Contributors: @jnz93
